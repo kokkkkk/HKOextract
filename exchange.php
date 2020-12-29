@@ -1,9 +1,9 @@
 <?php
 
-$servername = "sql310.byethost12.com";
-$username = "b12_19676790";
-$password = "14goku25ko";
-$database = "b12_19676790_test";
+$servername = "servername";
+$username = "username";
+$password = "password";
+$database = "database";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
